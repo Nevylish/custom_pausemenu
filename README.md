@@ -6,7 +6,7 @@ All primary "AddEntry" for pause menu
 
 
 ## Installation
-- [Download Source Code]hhttps://github.com/Nevylish/custom_pausemenu/archive/refs/heads/master.zip)
+- [Download Source Code](https://github.com/Nevylish/custom_pausemenu/archive/refs/heads/master.zip)
 - Unzip folder and paste into /resources directory
 - Add `start custom_pausemenu` to your server.cfg
 
