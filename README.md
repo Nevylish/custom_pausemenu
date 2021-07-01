@@ -12,5 +12,5 @@ All primary "AddEntry" for pause menu
 
 ## Customize
 - Change titles -> `pausemenu.lua`, `from line 5 to 18`
-- Add colors ([Preview](https://user-images.githubusercontent.com/36775882/124140436-c4f91e00-da88-11eb-8bf0-93946dab5261.png)) -> `pausemenu.lua`, `from line 5 to 18`<br>
+- Add colors or Rockstar Icon ([Preview](https://user-images.githubusercontent.com/36775882/124140436-c4f91e00-da88-11eb-8bf0-93946dab5261.png)) -> `pausemenu.lua`, `from line 5 to 18`<br>
     [Code exemple](https://user-images.githubusercontent.com/36775882/124140658-f376f900-da88-11eb-8076-335e86f94da3.png) - [Colors code](https://pastebin.com/RWWtruCr)
