@@ -5,7 +5,7 @@ end
 Citizen.CreateThread(function()
    AddTextEntry('FE_THDR_GTAO', 'FiveM - github.com/Nevylish')
    AddTextEntry('PM_PANE_LEAVE', 'Go back to the list of servers')
-   AddTextEntry('PM_PANE_QUIT', 'Exit FiveM and return to the desktop')
+   AddTextEntry('PM_PANE_QUIT', 'Exit FiveM and return to desktop')
    AddTextEntry('PM_SCR_MAP', 'Los Santos Map')
    AddTextEntry('PM_SCR_GAM', 'Take the plane')
    AddTextEntry('PM_SCR_INF', 'Logs')
