@@ -1,5 +1,5 @@
 # FiveM-custom_pausemenu
-All primary "AddEntry" for pause menu
+Modify the texts of the pause menu (Title and categories)
 
 ![Screenshot_5](https://user-images.githubusercontent.com/36775882/124140433-c4608780-da88-11eb-812a-55f179fd6913.png)
 ![Screenshot_6](https://user-images.githubusercontent.com/36775882/124140436-c4f91e00-da88-11eb-8bf0-93946dab5261.png)
